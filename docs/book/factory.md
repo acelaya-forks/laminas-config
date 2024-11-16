@@ -6,7 +6,7 @@ array or to a `Laminas\Config\Config` object. The factory has two purposes
 - Loading configuration file(s)
 - Storing a configuration file
 
-<!-- markdownlint-disable-next-line header-increment -->
+<!-- markdownlint-disable-next-line heading-increment -->
 > ### Storage writes to a single file
 >
 > Storing the configuration always writes to a **single** file. The factory is

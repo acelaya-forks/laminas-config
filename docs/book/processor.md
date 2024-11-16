@@ -12,7 +12,7 @@ laminas-config provides the following concrete implementations:
 - `Laminas\Config\Processor\Token`: find and replace specific tokens.
 - `Laminas\Config\Processor\Translator`: translate configuration values in other languages using `Laminas\I18n\Translator`.
 
-<!-- markdownlint-disable-next-line header-increment -->
+<!-- markdownlint-disable-next-line heading-increment -->
 > ### What gets processed?
 >
 > Typically, you will process configuration _values_. However, there are use
@@ -116,7 +116,7 @@ echo $config->foo;
 ```
 
 This example returns the output: `bar`. The filters in the queue are applied in
-*FIFO* (First In, First Out) order .
+_FIFO_ (First In, First Out) order .
 
 ## Laminas\\Config\\Processor\\Token
 
