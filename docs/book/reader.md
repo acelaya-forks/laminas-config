@@ -14,7 +14,7 @@ concrete implementations of this interface are:
 `fromFile()` and `fromString()` are expected to return a PHP array containing
 the data from the specified configuration.
 
-<!-- markdownlint-disable-next-line header-increment -->
+<!-- markdownlint-disable-next-line heading-increment -->
 > ### Differences from Zend Framework 1
 >
 > The `Laminas\Config\Reader` component no longer supports the following features:
